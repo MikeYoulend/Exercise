@@ -1,0 +1,147 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    width: 100%;
+    background-color: #EAEDED;
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+}
+
+.LogoTopAmazon {
+    width: 8%;
+    padding-bottom: 1vh;
+    padding-left: 1rem;
+    padding-top: 1vh;
+
+
+}
+
+.BackgroundColorTop {
+    background-color: #222F3E;
+}
+
+nav {
+    height: 3vh;
+    padding-top: 1vh;
+    padding-left: 1vh;
+    background-color: #354758;
+
+}
+
+.Rem {
+    padding: 1vh;
+    color: white;
+}
+
+main {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.TextOrange {
+
+    text-align: center;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    margin-top: 2rem;
+    background-color: orangered;
+    color: white;
+}
+
+.BackgroundImage {
+    background-image: url(bg-image.png);
+    text-align: center;
+    margin-top: 2rem;
+
+}
+
+.P-Top {
+    padding-top: 5%;
+    color: white;
+    font-size: 2em;
+
+}
+
+.P-Bottom {
+    padding-bottom: 3%;
+    color: white;
+    
+}
+
+#DisplayFlex {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.Backgroundwhite {
+    background-color: white;
+    
+}
+
+.White {
+    padding-left: 2vh;
+    padding-top: 2vh;
+}
+
+.img {
+    width: 300px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 20px;
+    margin: 1vw;
+}
+
+.BigImg img {
+    width: 100%;
+    padding-top: 2rem;
+}
+
+h3 a {
+    text-decoration: none;
+    padding-left: 1rem;
+}
+
+.Anchor{
+    text-decoration: none;
+    padding-left: 1rem;
+
+}
+
+.Centro {
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0rem;
+
+}
+
+.Bottom {
+    background-color: #354758;
+    text-align: center;
+    padding-top: 1.5vh;
+    padding-bottom: 1.5vh;
+    margin-top: 2rem;
+  
+}
+
+footer a {
+    color: white;
+    font-weight: bold;
+}
+
+.End {
+    background-color: #222F3E;
+    text-align: center;
+    padding-top: 1.5vh;
+    padding-bottom: 1.5vh;
+
+}
+
+#EndLogo {
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+    width: 10%;
+}
